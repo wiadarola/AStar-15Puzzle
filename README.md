@@ -1,7 +1,7 @@
 # ai_project1
-<h3>16 Puzzle Solver Using A* Search</h3>
+<h3>15 Puzzle Solver Using A* Search</h3>
 
-Uses an input file with an initial and desired puzzle state to solve a 16 puzzle.<br><br>
+Uses an input file with an initial and desired puzzle state to solve a 15 puzzle.<br><br>
 <h3>Output is of the form:</h3>
 Depth of the solution<br>
 Total number of nodes generated<br>
