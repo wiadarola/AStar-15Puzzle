@@ -1,14 +1,14 @@
 # ai_project1
 <h3>16 Puzzle Solver Using A* Search</h3>
 
-Uses an input file with an initial and desired puzzle state. \n
-Output is the form:\n\n
-Depth of the solution
-Total number of nodes generated 
-Actions in the solution path
-f(n) cost of the nodes in the solution path
+Uses an input file with an initial and desired puzzle state.<br><br>
+<h4>Output is the form:</h4><br>
+Depth of the solution<br>
+Total number of nodes generated<br>
+Actions in the solution path<br>
+f(n) cost of the nodes in the solution path<br><br>
 
-<u>Sample Input</u><br><br>
+<h4>Sample Input</h4><br><br>
 1 2 3 4<br>
 5 6 0 7<br>
 8 9 10 11 <br>
