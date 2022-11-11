@@ -1,5 +1,5 @@
 # ai_project1
-<h1>16 Puzzle Solver</h1>
+<h3>16 Puzzle Solver</h3>
 
 <u>Sample Input</u><br>
 1 2 3 4<br>
