@@ -9,28 +9,28 @@ Actions in the solution path<br>
 f(n) cost of the nodes in the solution path<br><br>
 
 <h4>Sample Input</h4><br><br>
-1 2 3 4<br>
-5 6 0 7<br>
-8 9 10 11 <br>
-12 13 14 15<br>
+1 5 3 13<br>
+8 0 6 4<br>
+15 10 7 9<br>
+11 14 2 12<br>
 
-1 2 0 4<br>
-5 6 9 3<br>
-8 13 10 7<br>
-12 14 11 15<br>
+1 5 3 13<br>
+0 7 6 4<br>
+8 10 9 2<br>
+11 15 14 12<br>
 
 <u>Sample Output</u><br><br>
-1 2 3 4
-5 6 0 7
-8 9 10 11 
-12 13 14 15
+1 5 3 13<br>
+8 0 6 4<br>
+15 10 7 9<br>
+11 14 2 12<br>
 
-1 2 0 4
-5 6 9 3
-8 13 10 7
-12 14 11 15
+1 5 3 13<br>
+0 7 6 4<br><br>
+8 10 9 2<br>
+11 15 14 12<br>
 
-6
-N
-8 7 5 4 3 2
-f f f f f f f
+6<br>
+244<br>
+6 5 8 1 2 3<br>
+6 11 15 18 20 21 21<br>
