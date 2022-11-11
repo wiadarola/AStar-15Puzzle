@@ -19,7 +19,7 @@ f(n) cost of the nodes in the solution path<br><br>
 8 10 9 2<br>
 11 15 14 12<br>
 
-<h3>Sample Output</h3><br>
+<h3>Sample Output</h3>
 1 5 3 13<br>
 8 0 6 4<br>
 15 10 7 9<br>
