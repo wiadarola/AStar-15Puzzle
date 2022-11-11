@@ -1,7 +1,7 @@
 # ai_project1
 <h1>16 Puzzle Solver</h1>
 
-<u>Sample Input</u>
+<u>Sample Input</u><br>
 1 2 3 4<br>
 5 6 0 7<br>
 8 9 10 11 <br>
