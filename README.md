@@ -9,7 +9,7 @@ Actions in the solution path<br>
 f(n) cost of the nodes in the solution path<br>
 
 <h3>15 Puzzle Example</h3>
-<img src="./15puzzle.jpg" alt="15 Puzzle Example">
+<img src="./15-puzzle_magical.svg.png" alt="15 Puzzle Example">
 
 <h3>Sample Input</h3>
 1 5 3 13<br>
