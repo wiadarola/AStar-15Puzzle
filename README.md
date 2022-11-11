@@ -2,7 +2,7 @@
 <h3>16 Puzzle Solver Using A* Search</h3>
 
 Uses an input file with an initial and desired puzzle state to solve a 16 puzzle.<br><br>
-<h4>Output is the form:</h4><br>
+<h4>Output is of the form:</h4>
 Depth of the solution<br>
 Total number of nodes generated<br>
 Actions in the solution path<br>
