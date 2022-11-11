@@ -6,7 +6,7 @@ Uses an input file with an initial and desired puzzle state to solve a 16 puzzle
 Depth of the solution<br>
 Total number of nodes generated<br>
 Actions in the solution path<br>
-f(n) cost of the nodes in the solution path<br><br>
+f(n) cost of the nodes in the solution path<br>
 
 <h3>Sample Input</h3>
 1 5 3 13<br>
