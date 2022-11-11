@@ -8,7 +8,7 @@ Total number of nodes generated<br>
 Actions in the solution path<br>
 f(n) cost of the nodes in the solution path<br><br>
 
-<h4>Sample Input</h4><br><br>
+<h4>Sample Input</h4>
 1 5 3 13<br>
 8 0 6 4<br>
 15 10 7 9<br>
