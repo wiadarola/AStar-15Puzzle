@@ -8,6 +8,9 @@ Total number of nodes generated<br>
 Actions in the solution path<br>
 f(n) cost of the nodes in the solution path<br>
 
+<h3>15 Puzzle Example</h3>
+![image](https://user-images.githubusercontent.com/91436116/201368730-9b1cfe0f-923b-4ef4-bef8-b05279deff15.png)
+
 <h3>Sample Input</h3>
 1 5 3 13<br>
 8 0 6 4<br>
