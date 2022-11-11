@@ -1,7 +1,12 @@
 # ai_project1
-<h3>16 Puzzle Solver</h3>
+<h3>16 Puzzle Solver Using A* Search</h3>
 
-Output the shortest amount of moves into a text file.
+Uses an input file with an initial and desired puzzle state. \n
+Output is the form:\n\n
+Depth of the solution
+Total number of nodes generated 
+Actions in the solution path
+f(n) cost of the nodes in the solution path
 
 <u>Sample Input</u><br><br>
 1 2 3 4<br>
