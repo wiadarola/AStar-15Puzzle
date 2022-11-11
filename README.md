@@ -2,13 +2,13 @@
 <h3>16 Puzzle Solver Using A* Search</h3>
 
 Uses an input file with an initial and desired puzzle state to solve a 16 puzzle.<br><br>
-<h4>Output is of the form:</h4>
+<h3>Output is of the form:</h3>
 Depth of the solution<br>
 Total number of nodes generated<br>
 Actions in the solution path<br>
 f(n) cost of the nodes in the solution path<br><br>
 
-<h4>Sample Input</h4>
+<h3>Sample Input</h3>
 1 5 3 13<br>
 8 0 6 4<br>
 15 10 7 9<br>
@@ -19,7 +19,7 @@ f(n) cost of the nodes in the solution path<br><br>
 8 10 9 2<br>
 11 15 14 12<br>
 
-<h4>Sample Output</h4><br>
+<h3>Sample Output</h3><br>
 1 5 3 13<br>
 8 0 6 4<br>
 15 10 7 9<br>
