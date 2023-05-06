@@ -1,4 +1,3 @@
-# ai_project1
 <h3>15 Puzzle Solver Using A* Search</h3>
 
 Uses an input file with an initial and desired puzzle state to solve a 15 puzzle.<br><br>
